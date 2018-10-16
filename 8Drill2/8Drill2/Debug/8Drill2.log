@@ -1,0 +1,5 @@
+﻿  8Drill2.cpp
+c:\users\virnael\source\repos\8drill2\8drill2\8drill2.cpp(22): error C2371: 'dx': redefinition; different basic types
+  c:\users\virnael\source\repos\8drill2\8drill2\8drill2.cpp(20): note: see declaration of 'dx'
+c:\users\virnael\source\repos\8drill2\8drill2\8drill2.cpp(23): error C2371: 'dy': redefinition; different basic types
+  c:\users\virnael\source\repos\8drill2\8drill2\8drill2.cpp(21): note: see declaration of 'dy'

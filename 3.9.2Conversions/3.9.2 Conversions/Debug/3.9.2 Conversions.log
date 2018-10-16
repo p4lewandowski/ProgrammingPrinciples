@@ -1,0 +1,3 @@
+﻿  3.9.2 Conversions.cpp
+e:\repositories\programmingprinciplesc++\3.9.2 conversions\3.9.2 conversions\3.9.2 conversions.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  3.9.2 Conversions.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\3.9.2 Conversions\Debug\3.9.2 Conversions.exe

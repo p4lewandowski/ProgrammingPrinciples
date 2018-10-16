@@ -1,0 +1,4 @@
+﻿  5.6.2.cpp
+e:\repositories\programmingprinciplesc++\5.6.2\5.6.2\5.6.2.cpp(31): warning C4018: '<=': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\5.6.2\5.6.2\5.6.2.cpp(43): warning C4715: 'dothings': not all control paths return a value
+  5.6.2.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\5.6.2\Debug\5.6.2.exe

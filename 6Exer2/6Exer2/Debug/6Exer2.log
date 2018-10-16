@@ -1,0 +1,3 @@
+﻿  6Exer2.cpp
+e:\repositories\programmingprinciplesc++\6exer2\6exer2\6exer2.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  6Exer2.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\6Exer2\Debug\6Exer2.exe

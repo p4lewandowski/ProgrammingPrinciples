@@ -1,0 +1,4 @@
+﻿  4.4.1Switch.cpp
+e:\repositories\programmingprinciplesc++\4.4.1switch\4.4.1switch\4.4.1switch.cpp(14): warning C4305: 'initializing': truncation from 'int' to 'char'
+e:\repositories\programmingprinciplesc++\4.4.1switch\4.4.1switch\4.4.1switch.cpp(14): warning C4309: 'initializing': truncation of constant value
+  4.4.1Switch.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\4.4.1Switch\Debug\4.4.1Switch.exe

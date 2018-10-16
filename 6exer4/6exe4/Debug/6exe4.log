@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  6exe4.cpp
+e:\repositories\programmingprinciplesc++\6exer4\6exe4\6exe4.cpp(28): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\6exer4\6exe4\6exe4.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\6exer4\6exe4\6exe4.cpp(46): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\6exer4\6exe4\6exe4.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  6exe4.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\6exer4\Debug\6exe4.exe

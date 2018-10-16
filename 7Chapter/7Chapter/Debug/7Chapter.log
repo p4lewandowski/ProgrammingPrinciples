@@ -1,0 +1,7 @@
+﻿  7Chapter.cpp
+e:\repositories\programmingprinciplesc++\7chapter\7chapter\7chapter.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\7chapter\7chapter\7chapter.cpp(120): warning C4018: '<=': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\7chapter\7chapter\7chapter.cpp(130): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\7chapter\7chapter\7chapter.cpp(136): warning C4018: '<': signed/unsigned mismatch
+e:\repositories\programmingprinciplesc++\7chapter\7chapter\7chapter.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  7Chapter.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\7Chapter\Debug\7Chapter.exe

@@ -1,0 +1,9 @@
+﻿  8Exer2.cpp
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\virnael\source\repos\8exer2\8exer2\8exer2.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  8Exer2.vcxproj -> C:\Users\Virnael\source\repos\8Exer2\Debug\8Exer2.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1_Drill", "3.1_Drill\3.1_Drill.vcxproj", "{B596A07A-5E45-4CF9-9582-997C2C8DD005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Debug|x64.ActiveCfg = Debug|x64
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Debug|x64.Build.0 = Debug|x64
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Debug|x86.ActiveCfg = Debug|Win32
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Debug|x86.Build.0 = Debug|Win32
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Release|x64.ActiveCfg = Release|x64
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Release|x64.Build.0 = Release|x64
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Release|x86.ActiveCfg = Release|Win32
+		{B596A07A-5E45-4CF9-9582-997C2C8DD005}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB3400B-F80B-46EC-BF29-54B1899C94AF}
+	EndGlobalSection
+EndGlobal
