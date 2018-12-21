@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  9Exer4.cpp
+e:\repositories\programmingprinciplesc++\9exer4\9exer4\9exer4.cpp(37): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\repositories\programmingprinciplesc++\9exer4\9exer4\9exer4.cpp(20): warning C4717: 'X::f': recursive on all control paths, function will cause runtime stack overflow
+  9Exer4.vcxproj -> E:\Repositories\ProgrammingPrinciplesC++\9Exer4\Debug\9Exer4.exe
